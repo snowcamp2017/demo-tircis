@@ -22,4 +22,4 @@ app.get('/hello/world', (req, res) => {
 
 
 app.listen(port);
-console.log(`🌍 Web Application is started - listening on ${port}`);
+console.log(`🌍 Web Application Tircis is started - listening on ${port}`);
